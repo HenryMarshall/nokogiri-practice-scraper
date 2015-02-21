@@ -1,0 +1,1 @@
+A practice scraping tool made with Nokogiri. It scrapes the one news site for which I can be sure I won't get caught up reading the articles.
